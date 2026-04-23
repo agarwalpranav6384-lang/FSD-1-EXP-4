@@ -1,0 +1,3 @@
+Terminal Style UI
+
+This project is a terminal-style interface built using HTML, CSS, and JavaScript. It mimics a command-line output window with a modern gradient background and colored control dots similar to a real terminal. The interface displays a booking system log, including server start information and a sample API response in JSON format. A typing animation is implemented using JavaScript to simulate real-time output in the terminal, enhancing the visual experience. The project is organized into three files: index.html for structure, style.css for styling, and script.js for functionality. It can be run by simply opening the index.html file in any web browser and serves as a basic example of creating interactive and animated UI components.
